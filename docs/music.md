@@ -11,18 +11,18 @@
 1. ヨハン・セバスチャン・バッハ（Johann Sebastian Bach）:
 『ブランデンブルク協奏曲』（Brandenburg Concertos）: バッハの代表作であり、バロック音楽の傑作として知られています。特に第3番や第5番は人気があります。
 
-![バッハ](/docs/img/music_Bach.png)
+![バッハ](./docs/img/music_Bach.png)
 
 2. ルートヴィヒ・ヴァン・ベートーヴェン（Ludwig van Beethoven）:
 『交響曲 第9番 ニ短調 作品125』（Symphony No. 9 in D Minor, Op. 125）: ベートーヴェンの最も有名な交響曲で、合唱パートが加わった第4楽章「歓喜の歌」は感動的です。
 
-![ベートーヴェン](/docs/img/beethoven.png)
+![ベートーヴェン](./docs/img/beethoven.png)
 
 
 ### 他のおすすめのもの
 
-1. #### [動物](/docs/animal.md)
+1. #### [動物](./docs/animal.md)
 
-2. #### [甘いもの](/docs/cooking.md)
+2. #### [甘いもの](./docs/cooking.md)
 
-3. #### [音楽](/docs/music.md)
+3. #### [音楽](./docs/music.md)
